@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on "Streamlit"
+- 🔭 I’m currently working on "Streamlit & AWS"
 - 🌱 I’m currently learning "Deep Learning, deeply"
 - 👯 I’m looking to collaborate on DS
 - 🤔 I’m looking for help with anything :)
