@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on "Data Camp Machine Learning Scientist"
+- 🔭 I’m currently working on "Data Science Boot camp at Veri Bilimi Okulu"
 - 🌱 I’m currently learning "Deep Learning, deeply"
 - 👯 I’m looking to collaborate on DS
 - 🤔 I’m looking for help with something interesting to me
